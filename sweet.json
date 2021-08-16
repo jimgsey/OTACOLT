@@ -1,14 +1,12 @@
 {
-   "datetime": 1628768850,
-   "error": false,
-   "filehash": "059ef9e6f4a96653a6f417ff809df89f",
-   "filename": "ColtOS-11.0-v7.1-sweet-OFFICIAL-20210812-1154.zip",
-   "id": "f86de3f3815533bf74a2c0391acff524d4e6cdf3a5d4edcc718b009809ee719e",
-   "size": 786798195,
-   "url": "https://sourceforge.net/projects/sweet10/files/Colt/Android-R/",
+   "datetime": 1629104526,
+   "filehash": "4ee8263fcefe30c8386ee72ee96a6924",
+   "filename": "ColtOS-11.0-v7.1-sweet-Unofficial-20210816-0904.zip",
+   "id": "03f2eecf8a09c11b603df50aa7bad757f001258d6f95384c00abaa8a497db149",
+   "size": 1483943610
+   "url": "https://sourceforge.net/projects/sweet10/files/Colt/Android-R/ColtOS-11.0-v7.1-sweet-Unofficial-20210816-0904.zip/download",
    "devicename": "Redmi Note 10 Pro",
-   "maintainer": "jimgsey",
-   "xdathread": "",
+   "maintainer": "Jimgsey",
    "version": "11.0"
 }
 
