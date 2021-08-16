@@ -1,0 +1,2 @@
+- Change kernel to SigmaKernel v1.0
+- More improvements
